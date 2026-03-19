@@ -1,0 +1,7 @@
+# MemOS Extreme Optimized Client Dependencies
+requests>=2.25.0
+
+# Optional dependencies for advanced features
+# python-dateutil>=2.8.0  # For date parsing
+# numpy>=1.19.0          # For performance analysis
+# pandas>=1.2.0          # For data analysis
